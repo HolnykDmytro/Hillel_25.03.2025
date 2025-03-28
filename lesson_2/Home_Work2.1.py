@@ -1,0 +1,10 @@
+print("Hello!")
+number = int(input("Enter 4 digit: "))
+int1, zalishok = divmod(number, 1000)
+int2, zalishok =divmod(zalishok, 100)
+int3, int4 = divmod(zalishok, 10)
+
+print(int1)
+print(int2)
+print(int3)
+print(int4)
