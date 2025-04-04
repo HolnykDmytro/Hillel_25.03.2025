@@ -33,8 +33,8 @@ print(i1 / i2)
 print(i1 % i2)
 print(i1 // i2)
 
-div, mod = divmod(11.1, 2.2)
-print(div, mod)
+div = divmod(950, 850)
+print(div)
 
 print("____________")
 
